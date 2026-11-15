@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.ppk
+*.pem
+*.key
+*.sql
+*.dump
+vendor/
+node_modules/
+.idea/
+.vscode/
+.DS_Store
+*.log
+.phpunit.result.cache
