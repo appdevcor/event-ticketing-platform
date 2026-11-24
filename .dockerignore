@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+**/vendor/
+**/node_modules/
+.github
+docs/
+ideas/
+reviews/
+bugs/
+**/*.md
+**/*.log
+.vscode/
+.idea/
